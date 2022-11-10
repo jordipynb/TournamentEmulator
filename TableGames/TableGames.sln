@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableGames", "TableGames.csproj", "{62220B5D-E634-4630-873B-ED9B8DAB8DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{0524D1D9-EFEF-4FBA-B5CD-7527DAB5B3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62220B5D-E634-4630-873B-ED9B8DAB8DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62220B5D-E634-4630-873B-ED9B8DAB8DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62220B5D-E634-4630-873B-ED9B8DAB8DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62220B5D-E634-4630-873B-ED9B8DAB8DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0524D1D9-EFEF-4FBA-B5CD-7527DAB5B3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0524D1D9-EFEF-4FBA-B5CD-7527DAB5B3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0524D1D9-EFEF-4FBA-B5CD-7527DAB5B3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0524D1D9-EFEF-4FBA-B5CD-7527DAB5B3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03EF1FB1-04C1-4DAD-8FA9-62B29F3E8FCC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,45 @@
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe.config
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.dll
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csprojAssemblyReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Properties.Resources.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.GenerateResource.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CoreCompileInputs.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CopyComplete
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Emulador.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Configuracion.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Contenedor.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe.config
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.dll
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csprojAssemblyReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Emulador.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Configuracion.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Contenedor.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Properties.Resources.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.GenerateResource.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CoreCompileInputs.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CopyComplete
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.pdb
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe.config
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.exe
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\TableGames.pdb
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.dll
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\bin\Debug\Games.pdb
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Emulador.resources
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Configuracion.resources
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Contenedor.resources
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.Properties.Resources.resources
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.GenerateResource.cache
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.csproj.CopyComplete
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.exe
+C:\Users\Jordan\Desktop\Proyecto II. Emulador de Torneos\C111 Jordan Pla Gonzalez\TableGames\obj\Debug\TableGames.pdb
