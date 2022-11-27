@@ -1,12 +1,12 @@
 # TournamentsEmulator
-Este Proyecto consiste en emular un torneo de Juegos de Mesa.  
-Fueron creados varios tipos de jugadores:  
+This Project consists of emulating a Table Games tournament.   
+Several types of players were created:  
 * GreedyPlayer
 * RandomPlayer  
 
-Fueron creados varios juegos de mesa:   
+Several board games were created:     
 * TicTacToe  
 * Domino
 * Othello  
 
-El objetivo de este proyecto era emplear técnicas de programación ya sea en cuanto a extensibilidad, genericidad y el empleo de interfaces y la recursividad.
+The objective of this project was to use programming techniques in terms of extensibility, genericity and the use of interfaces and recursion.
