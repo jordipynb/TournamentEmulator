@@ -1,4 +1,4 @@
-# TournamentsEmulator
+# Tournaments Emulator
 This Project consists of emulating a Table Games tournament.   
 Several types of players were created:  
 * GreedyPlayer
