@@ -1,11 +1,11 @@
 # Tournaments Emulator
 This Project consists of emulating a Table Games tournament.   
 Several types of players were created:  
-* GreedyPlayer
-* RandomPlayer  
+* Greedy Player
+* Random Player  
 
 Several board games were created:     
-* TicTacToe  
+* Tic Tac Toe  
 * Domino
 * Othello  
 
